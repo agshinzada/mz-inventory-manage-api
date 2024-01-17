@@ -1,0 +1,28 @@
+{
+  "name": "api_mng",
+  "version": "1.0.0",
+  "description": "API for it management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "author": "agshin ismayilzada",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "ip": "^1.1.8",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "mssql": "^8.1.2",
+    "pg": "^8.7.3",
+    "tedious": "^15.0.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.185",
+    "nodemon": "^2.0.16"
+  }
+}
