@@ -1,7 +1,7 @@
 {
-  "name": "api_mng",
+  "name": "mz-inventory-manage-api",
   "version": "1.0.0",
-  "description": "API for it management",
+  "description": "API for inventory manage app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
